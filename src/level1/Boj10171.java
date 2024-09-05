@@ -1,4 +1,4 @@
-package Level1;
+package level1;
 
 public class Boj10171 {
     public static void main(String[] args) {
